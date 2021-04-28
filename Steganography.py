@@ -1,6 +1,6 @@
 from PIL import Image
 import numpy as np
-
+#test change
 
 #Image IO
 def openImage(name):
